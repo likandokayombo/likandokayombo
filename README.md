@@ -1,5 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Likando</h1>
 <h3 align="center">I'm a committed Front End Developer from Southern Africa, passionate about fusing creativity and technology. Seeing designs become interactive experiences delivers satisfying visual feedback...</h3>
 
