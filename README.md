@@ -1,7 +1,10 @@
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Likando</h1>
-<h3 align="center">I'm a committed Front End Developer from Southern Africa, passionate about fusing creativity and technology. Seeing designs become interactive experiences delivers satisfying visual feedback...</h3>
+<p align="center">
+  <img align="right" height="100%" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</p>
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ Who am I?
+
+- Hi, I'm Likando, a committed Front End Developer from Southern Africa, passionate about fusing creativity and technology. Seeing designs become interactive experiences delivers satisfying visual feedback
 
 - 🔭 I currently work with ReactJs, Sanity IO - CMS,
 
