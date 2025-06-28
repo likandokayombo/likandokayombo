@@ -6,11 +6,11 @@
 
 - Hi, I'm Likando, a committed Front End Developer from Southern Africa, passionate about fusing creativity and technology. Seeing designs become interactive experiences delivers satisfying visual feedback
 
-- 🔭 I currently work with ReactJs, Sanity IO - CMS,
+- 🔭 I'm currently working on getting better as a Software Web developer.
 
-- 🌱 I’m currently learning **typescript**
+- 🌱 I’m currently learning a whole bunch of things.
 
-- 👯 I’m looking to collaborate on **Junior Developer roles or Partnership with other young developers**
+- 👯 I’m looking to collaboraing/working on projects that are fun and exciting.
 
 - 📫 How to reach me **likandokayombo2030@gmail.com**
 
