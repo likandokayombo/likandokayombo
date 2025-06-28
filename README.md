@@ -6,7 +6,7 @@
 
 - Hi, I'm Likando, a committed Front End Developer from Southern Africa, passionate about fusing creativity and technology. Seeing designs become interactive experiences delivers satisfying visual feedback
 
-- 🔭 I'm currently working on getting better as a Web developer.
+- 🔭 I'm currently working with React and getting better as a Web developer.
 
 - 🌱 I’m currently learning a whole bunch of things.
 
