@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning a whole bunch of things.
 
-- 👯 I’m looking to collaboraing/working on projects that are fun and exciting.
+- 👯 I’m looking to collaborating/working on projects that are fun and exciting.
 
 - 📫 How to reach me **likandokayombo2030@gmail.com**
 
