@@ -1,7 +1,3 @@
-<p align="center">
-  <img align="right" height="100%" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</p>
-
 ## 🙋‍♂️ Who am I?
 
 - Hi, I'm Likando, a committed Front End Developer from Southern Africa, passionate about fusing creativity and technology. Seeing designs become interactive experiences delivers satisfying visual feedback
