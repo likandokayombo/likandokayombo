@@ -7,12 +7,7 @@
 
 - Hi, I'm Likando, a committed Front End Developer from Southern Africa, passionate about fusing creativity and technology. Seeing designs become interactive experiences delivers satisfying visual feedback
 
-<p align="center">
-  <img
-    src="./focusing.svg"
-    alt="focusing"
-  />
-</p>
+
 
 - 🔭 I'm currently working with React and getting better as a Web developer.
 
