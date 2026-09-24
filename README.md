@@ -1,11 +1,18 @@
 
-
+![Status](https://img.shields.io/badge/status-😳%20focusing-333333?style=square&borderColor=333333)
 
 ## 🙋‍♂️ Who am I?
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1000">
 
 - Hi, I'm Likando, a committed Front End Developer from Southern Africa, passionate about fusing creativity and technology. Seeing designs become interactive experiences delivers satisfying visual feedback
+
+<p align="center">
+  <img
+    src="./focusing.svg"
+    alt="focusing"
+  />
+</p>
 
 - 🔭 I'm currently working with React and getting better as a Web developer.
 
